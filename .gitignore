@@ -1,0 +1,50 @@
+# Environment and secrets
+.env
+.env.local
+.env.*.local
+web/.env.local
+web/.env.*.local
+android/app/google-services.json
+
+# Dependencies
+node_modules/
+web/node_modules/
+.pnp
+.pnp.js
+
+# Production builds
+.next/
+web/.next/
+out/
+web/out/
+dist/
+build/
+web/build/
+
+# Gradle & Android builds
+.gradle/
+android/.gradle/
+android/build/
+android/app/build/
+*.apk
+*.aab
+local.properties
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Logs & debugging
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.firebase/
+
+# Media & Video Generation
+demo-generator/
+*.webm
+*.mp3
+*.mp4
+
+
+*.tsbuildinfo

@@ -1,0 +1,11 @@
+{
+  "parameters": {
+    "escalation_risk_threshold": {
+      "defaultValue": {
+        "value": "70"
+      },
+      "valueType": "NUMBER",
+      "description": "Threshold (0-100) above which System-1 automatically escalates turns to System-2 Cloud Deep Strategy."
+    }
+  }
+}

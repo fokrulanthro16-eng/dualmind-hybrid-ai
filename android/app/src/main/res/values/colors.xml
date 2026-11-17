@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="obsidian_950">#030508</color>
+    <color name="obsidian_900">#060911</color>
+    <color name="obsidian_800">#111827</color>
+    <color name="emerald_nano">#10B981</color>
+    <color name="cyan_cloud">#06B6D4</color>
+    <color name="amber_warning">#F59E0B</color>
+    <color name="crimson_alert">#EF4444</color>
+</resources>
