@@ -27,19 +27,31 @@ In high-stakes business and enterprise negotiations, a 2-second hesitation or a 
 
 ---
 
-## 📸 High-Resolution Visual Tour
+## 📸 High-Resolution Retina Visual Tour (6 Product Showcase Shots)
 
-### 1. Live Teleprompter HUD Overview
-The negotiator cockpit featuring live App Check attestation, dynamic Remote Config threshold gating (`70`), active PII Shield firewall, network state toggling, and multi-device session pairing code (`DM-XXXX`).
-![Live HUD Overview](./docs/screenshots/01-live-hud-overview.png)
+### 1. Command Cockpit & Architecture Overview (`01-command-cockpit-overview.png`)
+The primary negotiator HUD featuring verified App Check attestation, dynamic Remote Config threshold gating (`70`), active PII Shield firewall, live session pairing code (`DM-XXXX`), and the four one-click hackathon judge verification scenarios.
+![Command Cockpit Overview](./docs/screenshots/01-command-cockpit-overview.png)
 
-### 2. Hybrid Escalation & Deterministic Local PII Firewall
-Live turn processing of an exploding deadline high-stakes salary offer. Notice the immediate **Risk Score: 88**, sub-150ms System-1 reflex alert, locally tokenized PII (`$185k` → `[AMOUNT_1]`, `0.15% equity` → `[EQUITY_1]`, `Acme Corp` → `[COMPANY_1]`), and streaming System-2 three-tier counter-offers (*Conservative*, *Balanced*, *Assertive*).
-![Hybrid Escalation and PII Firewall](./docs/screenshots/02-hybrid-escalation-and-pii-firewall.png)
+### 2. System-1 On-Device Local Reflex (`02-system1-on-device-low-risk.png`)
+Routine timeline negotiation handled 100% locally by on-device Gemini Nano via `InferenceMode.PREFER_ON_DEVICE`. Demonstrates sub-150ms execution, green low-risk scoring (`Risk: 24`), zero cloud API consumption, and increasing cloud cost savings.
+![System-1 On-Device Low Risk](./docs/screenshots/02-system1-on-device-low-risk.png)
 
-### 3. Firebase AI Logic Deep Inspection Drawer
-The expandable **Inspect AI Logic** panel provides proof of authentic Firebase AI Logic SDK routing, millisecond-level telemetry breakdown, structured schema enforcement, and App Check debug/reCAPTCHA verification.
-![Firebase AI Logic Inspector](./docs/screenshots/03-firebase-ai-logic-inspector.png)
+### 3. Flagship Hybrid Escalation & Local PII Firewall (`03-pii-firewall-and-system2-escalation.png`)
+High-risk salary offer with an exploding 24-hour deadline triggering instant escalation (`Risk: 88 > 70`). Showcases deterministic client-side PII tokenization (`$185k` → `[AMOUNT_1]`, `0.15% equity` → `[EQUITY_1]`, `Acme Corp` → `[COMPANY_1]`), instant System-1 reflex cue, and streaming System-2 game-theoretic counter-offers (*Conservative*, *Balanced*, *Assertive*).
+![Hybrid Escalation and PII Firewall](./docs/screenshots/03-pii-firewall-and-system2-escalation.png)
+
+### 4. 100% Offline Resilience & Local Continuity (`04-offline-resilience-mode.png`)
+Seamless operation with network connectivity severed (`Simulating Offline`). Proves that System-1 bluff detection, psychological tactic evaluation, and teleprompter guidance continue functioning flawlessly with zero external connectivity.
+![Offline Resilience Mode](./docs/screenshots/04-offline-resilience-mode.png)
+
+### 5. Firebase AI Logic Deep Inspection Drawer (`05-firebase-ai-logic-inspector.png`)
+The expanded execution telemetry inspector proving authentic `firebase/ai` SDK usage, exact millisecond timing breakdowns across on-device vs. cloud engines, entity tokenization stats, and verified Firebase App Check token attestation.
+![Firebase AI Logic Inspector](./docs/screenshots/05-firebase-ai-logic-inspector.png)
+
+### 6. Multi-Platform Web + Android Companion Showcase (`06-web-and-android-pocket-hud-sync.png`)
+Simultaneous dual-device synchronization: the Web Teleprompter HUD paired in real time with the **Android Pixel Companion Pocket HUD** (`com.dualmind.hud`). Demonstrates matching session codes, hardware haptic alert pulses on critical risk breaches, and glanceable high-contrast spoken scripts readable from four feet away.
+![Multi-Platform Web and Android Showcase](./docs/screenshots/06-web-and-android-pocket-hud-sync.png)
 
 ---
 
